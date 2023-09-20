@@ -1,3 +1,4 @@
+install.packages("igraph")
 library(igraph)
 
 # Function to create a rooted tree
