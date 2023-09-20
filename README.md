@@ -5,6 +5,8 @@ I wrote a super simple R code that sets up a cultural 'system' in which an indiv
 
 The code spits out some graphs that vary in the 'branching' parameter of the system, that is, how many children each trait has. In an extreme case, this is 1 (completely vertical tree). It can also be really high, which would mimic the 'atomic' view of culture.
 
+The plots on the right hand side show some statistics of the simulations. I will paste the highlights in our Google Doc: https://docs.google.com/document/d/1qHOuFOTePMNrP-CaSHHM_g8qRO4iG1nLKtA_NqiOhXQ/edit 
+
 NB: learning is now overly simple. I will keep adding updates as I go along.
 
 Future steps:
