@@ -44,7 +44,7 @@ for (br in c(1,2,50)){
 	branching_factor <- br
 
 	tree <- generate_rooted_tree(num_nodes, branching_factor)
-	layout <- layout_as_tree(tree, root = root_node, rootlevel = 0)
+	layout <- layout_as_tree(tree, root = 1, rootlevel = 0)
 	# Plot the tree with the specified layout
 	nodeDepths<-c()
 	for (i in 1:num_nodes){
